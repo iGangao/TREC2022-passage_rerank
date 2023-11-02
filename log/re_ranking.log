@@ -1,0 +1,108 @@
+2023-10-25 01:51:56,708 - INFO: Load pretrained SentenceTransformer: ./model/all-MiniLM-L6-v2
+2023-10-25 01:51:57,071 - INFO: Created a temporary directory at /tmp/tmpt2lyuyii
+2023-10-25 01:51:57,072 - INFO: Writing /tmp/tmpt2lyuyii/_remote_module_non_scriptable.py
+2023-10-25 01:52:02,201 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 01:52:02,202 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 01:52:03,441 - INFO: Use pytorch device: cuda
+2023-10-25 02:37:56,787 - INFO: Load pretrained SentenceTransformer: ./model/multi-qa-MiniLM-L6-cos-v1
+2023-10-25 02:37:56,973 - INFO: Created a temporary directory at /tmp/tmptscqxhtu
+2023-10-25 02:37:56,973 - INFO: Writing /tmp/tmptscqxhtu/_remote_module_non_scriptable.py
+2023-10-25 02:37:59,161 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 02:37:59,161 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 02:38:00,079 - INFO: Use pytorch device: cuda
+2023-10-25 02:51:48,355 - INFO: Load pretrained SentenceTransformer: ./model/multi-qa-mpnet-base-dot-v1
+2023-10-25 02:51:48,512 - INFO: Created a temporary directory at /tmp/tmpx09a8hho
+2023-10-25 02:51:48,512 - INFO: Writing /tmp/tmpx09a8hho/_remote_module_non_scriptable.py
+2023-10-25 02:51:50,689 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 02:51:50,689 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 02:51:52,618 - INFO: Use pytorch device: cuda
+2023-10-25 03:10:58,385 - INFO: Load pretrained SentenceTransformer: ./model/paraphrase-multilingual-mpnet-base-v2
+2023-10-25 03:10:58,553 - INFO: Created a temporary directory at /tmp/tmpui5yzdn4
+2023-10-25 03:10:58,554 - INFO: Writing /tmp/tmpui5yzdn4/_remote_module_non_scriptable.py
+2023-10-25 03:11:00,645 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 03:11:00,645 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 03:11:04,847 - INFO: Use pytorch device: cuda
+2023-10-25 03:28:52,632 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-10-25 03:28:52,790 - INFO: Created a temporary directory at /tmp/tmph15unbee
+2023-10-25 03:28:52,791 - INFO: Writing /tmp/tmph15unbee/_remote_module_non_scriptable.py
+2023-10-25 03:28:54,883 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 03:28:54,883 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 03:28:56,916 - INFO: Use pytorch device: cuda
+2023-10-25 03:29:24,829 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-10-25 03:29:24,993 - INFO: Created a temporary directory at /tmp/tmpred5uu60
+2023-10-25 03:29:24,993 - INFO: Writing /tmp/tmpred5uu60/_remote_module_non_scriptable.py
+2023-10-25 03:29:27,165 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 03:29:27,165 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 03:29:29,175 - INFO: Use pytorch device: cuda
+2023-10-25 03:37:08,629 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-10-25 03:37:08,786 - INFO: Created a temporary directory at /tmp/tmpc0x5zm3o
+2023-10-25 03:37:08,787 - INFO: Writing /tmp/tmpc0x5zm3o/_remote_module_non_scriptable.py
+2023-10-25 03:37:10,988 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 03:37:10,988 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 03:37:12,896 - INFO: Use pytorch device: cuda
+2023-10-25 03:46:43,613 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-10-25 03:46:43,791 - INFO: Created a temporary directory at /tmp/tmplu4fabbl
+2023-10-25 03:46:43,791 - INFO: Writing /tmp/tmplu4fabbl/_remote_module_non_scriptable.py
+2023-10-25 03:46:46,032 - INFO: Note: NumExpr detected 56 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-10-25 03:46:46,032 - INFO: NumExpr defaulting to 8 threads.
+2023-10-25 03:46:47,999 - INFO: Use pytorch device: cuda
+2023-10-30 02:38:35,113 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-10-30 02:38:35,259 - INFO: Created a temporary directory at /tmp/tmpf199muga
+2023-10-30 02:38:35,260 - INFO: Writing /tmp/tmpf199muga/_remote_module_non_scriptable.py
+2023-10-30 02:38:36,987 - INFO: Use pytorch device: cuda
+2023-10-30 08:48:07,474 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-10-30 08:48:07,606 - INFO: Created a temporary directory at /tmp/tmp46n23_og
+2023-10-30 08:48:07,606 - INFO: Writing /tmp/tmp46n23_og/_remote_module_non_scriptable.py
+2023-10-30 08:48:09,213 - INFO: Use pytorch device: cuda
+2023-10-31 10:03:41,394 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-10-31 10:03:41,525 - INFO: Created a temporary directory at /tmp/tmp6ctnc_ej
+2023-10-31 10:03:41,525 - INFO: Writing /tmp/tmp6ctnc_ej/_remote_module_non_scriptable.py
+2023-10-31 10:03:43,123 - INFO: Use pytorch device: cuda
+2023-11-01 10:20:12,418 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:20:12,551 - INFO: Created a temporary directory at /tmp/tmp074dbxjt
+2023-11-01 10:20:12,552 - INFO: Writing /tmp/tmp074dbxjt/_remote_module_non_scriptable.py
+2023-11-01 10:20:14,173 - INFO: Use pytorch device: cuda
+2023-11-01 10:20:47,112 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:20:47,240 - INFO: Created a temporary directory at /tmp/tmp5_kpttc_
+2023-11-01 10:20:47,241 - INFO: Writing /tmp/tmp5_kpttc_/_remote_module_non_scriptable.py
+2023-11-01 10:20:48,777 - INFO: Use pytorch device: cuda
+2023-11-01 10:22:56,455 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:22:56,585 - INFO: Created a temporary directory at /tmp/tmpmuhln2fn
+2023-11-01 10:22:56,585 - INFO: Writing /tmp/tmpmuhln2fn/_remote_module_non_scriptable.py
+2023-11-01 10:22:58,139 - INFO: Use pytorch device: cuda
+2023-11-01 10:24:13,157 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:24:13,296 - INFO: Created a temporary directory at /tmp/tmp2uwl_pbp
+2023-11-01 10:24:13,296 - INFO: Writing /tmp/tmp2uwl_pbp/_remote_module_non_scriptable.py
+2023-11-01 10:24:14,876 - INFO: Use pytorch device: cuda
+2023-11-01 10:41:39,351 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:41:39,483 - INFO: Created a temporary directory at /tmp/tmpfk_6izxs
+2023-11-01 10:41:39,484 - INFO: Writing /tmp/tmpfk_6izxs/_remote_module_non_scriptable.py
+2023-11-01 10:41:40,989 - INFO: Use pytorch device: cuda
+2023-11-01 10:53:52,318 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:53:52,459 - INFO: Created a temporary directory at /tmp/tmpysbap8wk
+2023-11-01 10:53:52,460 - INFO: Writing /tmp/tmpysbap8wk/_remote_module_non_scriptable.py
+2023-11-01 10:53:53,988 - INFO: Use pytorch device: cuda
+2023-11-01 10:54:56,436 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-01 10:54:56,564 - INFO: Created a temporary directory at /tmp/tmp85p_646y
+2023-11-01 10:54:56,565 - INFO: Writing /tmp/tmp85p_646y/_remote_module_non_scriptable.py
+2023-11-01 10:54:58,144 - INFO: Use pytorch device: cuda
+2023-11-01 11:12:34,444 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-11-01 11:12:34,574 - INFO: Created a temporary directory at /tmp/tmphn8u52nn
+2023-11-01 11:12:34,574 - INFO: Writing /tmp/tmphn8u52nn/_remote_module_non_scriptable.py
+2023-11-01 11:12:36,203 - INFO: Use pytorch device: cuda
+2023-11-02 07:31:36,875 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-11-02 07:31:37,012 - INFO: Created a temporary directory at /tmp/tmp8eg1gfxe
+2023-11-02 07:31:37,013 - INFO: Writing /tmp/tmp8eg1gfxe/_remote_module_non_scriptable.py
+2023-11-02 07:31:38,613 - INFO: Use pytorch device: cuda
+2023-11-02 07:31:49,687 - INFO: Load pretrained SentenceTransformer: ./model/all-mpnet-base-v2
+2023-11-02 07:31:49,816 - INFO: Created a temporary directory at /tmp/tmp2k_g7s4m
+2023-11-02 07:31:49,816 - INFO: Writing /tmp/tmp2k_g7s4m/_remote_module_non_scriptable.py
+2023-11-02 07:31:51,409 - INFO: Use pytorch device: cuda
+2023-11-02 07:47:08,804 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-02 07:47:08,932 - INFO: Created a temporary directory at /tmp/tmpa2f4powg
+2023-11-02 07:47:08,932 - INFO: Writing /tmp/tmpa2f4powg/_remote_module_non_scriptable.py
+2023-11-02 07:47:10,475 - INFO: Use pytorch device: cuda
+2023-11-02 07:53:11,442 - INFO: Load pretrained SentenceTransformer: ./model/checkpoint
+2023-11-02 07:53:11,571 - INFO: Created a temporary directory at /tmp/tmpq0rovgba
+2023-11-02 07:53:11,571 - INFO: Writing /tmp/tmpq0rovgba/_remote_module_non_scriptable.py
+2023-11-02 07:53:13,164 - INFO: Use pytorch device: cuda
