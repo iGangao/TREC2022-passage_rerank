@@ -2,7 +2,7 @@ from collections import defaultdict
 import json
 import csv
 import os
-
+from tqdm import tqdm
 def convert_tsv_to_json(input_file, output_file):
     csv.field_size_limit(100*1024*1024)
     
@@ -47,6 +47,6 @@ if __name__ == "__main__":
         ('./data/row-dataset/val_2021_passage_top100.txt', "./data/dataset/val_qid2pids.json", 2)
     ]
 
-    for input_path, output_path, index in conversion_tasks:
+    for input_path, output_path, index in tqdm(conversion_tasks, desc="Converting"):
         if not os.path.exists(output_path):
             convert_x_to_json(input_path, output_path, index)
