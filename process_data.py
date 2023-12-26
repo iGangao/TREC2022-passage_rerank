@@ -3,17 +3,19 @@ import json
 import csv
 import os
 from tqdm import tqdm
+csv.field_size_limit(100*1024*1024)
 def convert_tsv_to_json(input_file, output_file):
-    csv.field_size_limit(100*1024*1024)
-    
     with open(input_file, "r") as f:
         data = csv.reader(f, delimiter="\t")
         dic = {row[0]: row[1] for row in data}
-
+    if not os.path.exists(os.path.dirname(output_file)):
+        os.makedirs(os.path.dirname(output_file))
     with open(output_file, "w") as jf:
         json.dump(dic, jf, indent=4)
 
-def convert_txt_to_json(input_file, output_file):    
+def convert_txt_to_json(input_file, output_file):
+    if not os.path.exists(os.path.dirname(output_file)):
+        os.makedirs(os.path.dirname(output_file))
     with open(input_file, 'r') as txt_file:
         data = [line.strip().split(' ') for line in txt_file]
         dic = defaultdict(list)
@@ -23,6 +25,8 @@ def convert_txt_to_json(input_file, output_file):
         json.dump(dic, jf, indent=4)    
 
 def convert_x_to_json(input_file, output_file, index=1):
+    if not os.path.exists(os.path.dirname(output_file)):
+        os.makedirs(os.path.dirname(output_file))
     with open(input_file,'r') as f:
         if input_file.endswith('.tsv'):
             data = csv.reader(f, delimiter="\t")
